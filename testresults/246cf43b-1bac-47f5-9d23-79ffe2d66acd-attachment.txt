@@ -1,0 +1,2 @@
+[1m[31mERROR   [0m asyncio:base_events.py:1865 Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<process_task() done, defined at /home/pooi/test_candidate/app.py:52> wait_for=<Future pending cb=[Task.task_wakeup()]>>
